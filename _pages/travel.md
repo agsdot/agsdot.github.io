@@ -17,11 +17,11 @@ In addition to my studies in Germany, I recently had the opportunity to visit th
 
 Centered, but has to use HTML directly
 <div class="text-center">
-  <img src="{{ site.baseurl }}/assets/images/janestanford.jpg" alt="Jane Image">
+  <img src="{{ site.baseurl }}/assets/images/stanfordtree.jpg" alt="Stanford Tree">
 </div>
 
 <p>&nbsp;</p>
 Non centered, markdown image
-![Jane Image]({{ site.baseurl }}/assets/images/janestanford.jpg)
+![Stanford Tree]({{ site.baseurl }}/assets/images/stanfordtree.jpg)
 
 
