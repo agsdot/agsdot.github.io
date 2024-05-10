@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
-excerpt: "My doctoral journey in linguistics at Cornell University involves rigorous research, deep exploration, and scholarly contributions to the field."
+excerpt: "My doctoral journey and post doc in linguistics at Cornell University involves rigorous research, deep exploration, and scholarly contributions to the field."
 intro: 
   - excerpt: 'As a doctoral student in Linguistics at Cornell University, I delve into complex areas such as syntax, phonology, morphology, semantics, pragmatics, historical linguistics, sociolinguistics, psycholinguistics, computational linguistics, corpus linguistics, typology, laboratory research, and fieldwork.'
 feature_row:
